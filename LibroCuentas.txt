@@ -1,0 +1,132 @@
+El cliente Cristian esta consultando el saldo
+Saldo: 15000.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 16000.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 15990.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 25990.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 15990.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 16990.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 26980.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 41980.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 36980.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 47980.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 47970.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 58970.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 47970.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 48970.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 48960.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 74950.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 68960.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 69960.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 69950.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 90940.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 79950.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 80950.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 80940.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 106930.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 80940.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 91940.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 101930.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 122920.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 101930.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 102930.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 102920.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 139910.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 122920.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 123920.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 123910.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 155900.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 123910.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 134910.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 134900.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 171880.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta consultando el saldo
+Saldo: 144900.0  Titular: Cristian
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta ingresando 1000.0 euros
+El saldo actual de Cristian es 145900.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta retirando 10.0 euros
+El saldo actual de Cristian es 155890.0
+El cliente Cristian esta cerrando la cuenta
+El cliente Cristian esta realizando una tranferencia por el importe de 15000.0 euros
+El saldo actual de la cuenta de la cuenta de es 187870.0
+El cliente Cristian esta cerrando la cuenta
